@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">ud-quiz-app</string>
+    <string name="college_of_engineering_and_it">College of Engineering and IT
+    </string>
+    <string-array name="courses">
+        <item>Introduction to  OS </item>
+        <item>Information System Security</item>
+        <item>Object Oriented Programming</item>
+        <item>Math for science I</item>
+        <item>Principle of Networking</item>
+        <item>Math for science II</item>
+        <item>Internet Application</item>
+        <item>Electric-Circuits- 1</item>
+        <item>Microprocessors</item>
+        <item>General Physics I</item>
+        <item>Digital Signal Processing</item>
+        <item>General Physics II</item>
+
+
+    </string-array>
+
+    <string-array name="courses2">
+        <item>Principles Of Financial Accounting</item>
+        <item>Principles Of Managerial Accounting</item>
+        <item>International Accounting</item>
+        <item>Auditing</item>
+        <item>International Accounting 2</item>
+        <item>Quantitative Methods For Business</item>
+        <item>Business Law</item>
+        <item>Business and Society</item>
+        <item>Strategic Management (Capstone)</item>
+        <item>HSN Classification </item>
+        <item>International Agreements On Trade</item>
+        <item>Microeconomics</item>
+
+
+    </string-array>
+
+
+</resources>
